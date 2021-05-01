@@ -1,0 +1,15 @@
+DEBUG:root:https://trackapi.nutritionix.com/v2/natural/exercise
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): trackapi.nutritionix.com:443
+DEBUG:urllib3.connectionpool:https://trackapi.nutritionix.com:443 "POST /v2/natural/exercise HTTP/1.1" 200 297
+DEBUG:root:https://trackapi.nutritionix.com/v2/natural/exercise?query=ran+5+kms%2C+walked+2+km&gender=male&weight_kg=80.5&height_cm=173&age=40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): trackapi.nutritionix.com:443
+DEBUG:urllib3.connectionpool:https://trackapi.nutritionix.com:443 "POST /v2/natural/exercise HTTP/1.1" 200 297
+DEBUG:root:https://trackapi.nutritionix.com/v2/natural/exercise?query=ran+5+kms%2C+walked+2+km&gender=male&weight_kg=80.5&height_cm=173&age=40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): trackapi.nutritionix.com:443
+DEBUG:urllib3.connectionpool:https://trackapi.nutritionix.com:443 "POST /v2/natural/exercise HTTP/1.1" 400 54
+DEBUG:root:https://trackapi.nutritionix.com/v2/natural/exercise?query=ran+5+kms%2C+walked+2+km&gender=male&weight_kg=80.5&height_cm=173&age=40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): trackapi.nutritionix.com:443
+DEBUG:urllib3.connectionpool:https://trackapi.nutritionix.com:443 "POST /v2/natural/exercise HTTP/1.1" 200 297
+DEBUG:root:https://trackapi.nutritionix.com/v2/natural/exercise?query=ran+5+kms%2C+walked+2+km&gender=male&weight_kg=80.5&height_cm=173&age=40
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): trackapi.nutritionix.com:443
+DEBUG:urllib3.connectionpool:https://trackapi.nutritionix.com:443 "POST /v2/natural/exercise HTTP/1.1" 200 297
